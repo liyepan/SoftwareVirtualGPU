@@ -1,0 +1,9 @@
+out/
+artifacts/
+logs/
+.vs/
+driver/x64/
+*.pfx
+*.cer
+*.dmp
+*.etl
